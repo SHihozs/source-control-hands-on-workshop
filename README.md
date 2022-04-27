@@ -1,7 +1,5 @@
 # SOURCE CONTROL HANDS ON WORKSHOP
 
-HELLO WORLD Bye
-
 ## Table of content
 
 - [Slide](#Slide)
